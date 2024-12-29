@@ -4,5 +4,7 @@ A menu-driven C++ calculator program that continuously performs arithmetic opera
 <br>
 ![Screenshot from 2024-12-29 20-16-20](https://github.com/user-attachments/assets/09731fc8-1d8a-45ff-bf72-1af1117ca72a)
 <br>
+<br>
+<br>
 ![Screenshot from 2024-12-29 20-16-43](https://github.com/user-attachments/assets/261374bd-a126-4550-a789-469f37396751)
 
