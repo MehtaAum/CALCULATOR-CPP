@@ -4,7 +4,7 @@ A menu-driven C++ calculator program that continuously performs arithmetic opera
 <br>
 <br>
 <h1>ADDISION</h1>
-![Screenshot from 2024-12-29 19-42-29](https://github.com/user-attachments/assets/5d959595-a734-40a0-9287-8534c9ee2307)
+![Alt Text](https://github.com/MehtaAum/CALCULATOR-CPP/blob/main/screenshot/Screenshot%20from%202024-12-29%2019-42-29.png?raw=true)
 <br>
 <br>
 <br>
